@@ -1,5 +1,3 @@
-﻿# Looking_Like_Zhoom
-
 # Looking_Like_Zhoom 🎥
 
 **Looking_Like_Zhoom** is a full-stack real-time video conferencing application inspired by Zoom. Built using Node.js, Express, Socket.IO, MongoDB, and React (powered by Vite), it enables real-time WebRTC video signaling, room-based chat messaging, user authentication, and meeting history tracking.
